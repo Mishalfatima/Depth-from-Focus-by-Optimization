@@ -38,7 +38,7 @@ References:
 image focus for 3 D shape recovery in the presence of noise, A Malik
 and T S Choi, Pattern Recognition 2008
 
-2.“An Experimental Comparison of Min Cut/Max Flow
+2. “An Experimental Comparison of Min Cut/Max Flow
 Algorithms for Energy Minimization in Vision, Yuri Boykov and Vla
 dimir Kolmogorov, IEEE TPAMI 2004”
 
